@@ -9,11 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SpringAzureDemoApplication {
 
-	@GetMapping("/message")
-	public String message() {
-		return "Spring works in Azure";
-	}
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAzureDemoApplication.class, args);
 	}
