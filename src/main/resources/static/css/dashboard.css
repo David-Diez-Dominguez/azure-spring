@@ -1,0 +1,17 @@
+#upper-div{
+    background-color: #f4f6fb;
+    height: 30%;
+}
+
+#main-div{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.user-funct{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
